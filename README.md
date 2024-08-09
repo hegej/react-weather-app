@@ -3,10 +3,12 @@
 First signUp for free acccount to access API.
 
  1 - https://rapidapi.com/wirefreethought/api/geodb-cities
+ 
  2 - https://openweathermap.org/api
 
 
-Then, in /src/ - create "Api.js" with this :
+
+#### Then, in folder /src/ - create "Api.js" with this :
 
 
 ```
